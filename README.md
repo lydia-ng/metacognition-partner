@@ -97,7 +97,6 @@ metacognition-partner/
 │   └── why-this-exists-zh.md       这份 skill 背后的思考
 └── examples/
     └── before-after.md             加载前后对话的对比示例
-└── LICENSE
 ```
 
 ---
