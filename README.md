@@ -37,7 +37,7 @@ A skill that lets your AI assistant monitor your thinking quality across every c
 ### Claude.ai (推荐)
 
 1. 在 Claude.ai 创建一个新 Project（或编辑现有的）
-2. 打开 [`skills/SKILL-zh.md`](./skills/SKILL-zh.md) 或 [`skills/SKILL-en.md`](./skills/SKILL-en.md)
+2. 打开 [`skills/SKILL-zh.md`](./skills/SKILL-zh.md)
 3. 复制全部内容到 Project 的 "Custom instructions" 区域
 4. 保存
 
