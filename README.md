@@ -87,21 +87,16 @@ AI 会在合适的时候提出问题（不打断你的主线），比如：
 ## 仓库结构 / Repo structure
 
 ```
-metacognition-skill/
+metacognition-partner/
 ├── README.md                       本文件
+├── LICENSE                         CC BY-SA 4.0
 ├── skills/
 │   ├── SKILL-zh.md                 完整版 AI 指令（中文）
-│   ├── SKILL-en.md                 完整版 AI 指令（英文）
-│   ├── SKILL-compact-zh.md         精简版（用于字符受限场景，中文）
-│   └── SKILL-compact-en.md         精简版（英文）
+│   └── SKILL-compact-zh.md         精简版（用于字符受限场景）
 ├── docs/
-│   ├── reading-zh.md               给人读的长文版（中文）
-│   ├── reading-en.md               给人读的长文版（英文）
-│   ├── why-this-exists-zh.md       这份 skill 背后的思考（中文）
-│   └── why-this-exists-en.md       英文版
-├── examples/
-│   ├── before-after.md             加载前后对话的对比示例
-│   └── use-cases.md                典型使用场景
+│   └── why-this-exists-zh.md       这份 skill 背后的思考
+└── examples/
+    └── before-after.md             加载前后对话的对比示例
 └── LICENSE
 ```
 
